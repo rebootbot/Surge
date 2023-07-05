@@ -14,4 +14,4 @@
 Sub_info = script-name=Sub_info,update-interval=36000000000
 
 [Script]
-Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=base64编码后的机场订阅&reset_day=13&title=机场名字&icon=wifi&color=#888889
+Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=base64编码后的机场订阅&reset_day=这个月还剩余多少天&title=机场名字&icon=wifi&color=#888889
