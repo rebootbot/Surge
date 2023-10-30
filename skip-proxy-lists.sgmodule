@@ -4,4 +4,4 @@
 
 [General]
 
-skip-proxy = %APPEND% *.abchina.com.cn,*.cmbc.com.cn
+skip-proxy = %APPEND% *.abchina.com.cn
